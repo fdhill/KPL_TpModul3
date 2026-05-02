@@ -16,5 +16,21 @@ namespace tp_modul3_103082400012
         {
             InitializeComponent();
         }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+            string nama = textBox1.Text;
+            label1.Text = "Halo " + nama;
+        }
+
+        private void textBox1_TextChanged(object sender, EventArgs e)
+        {
+
+        }
+
+        private void label1_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }

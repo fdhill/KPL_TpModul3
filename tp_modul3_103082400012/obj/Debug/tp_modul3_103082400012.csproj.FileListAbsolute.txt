@@ -1,0 +1,10 @@
+D:\Folder D\kuliah\Semester 4\KPL\tp_modul3_103082400012\tp_modul3_103082400012\bin\Debug\tp_modul3_103082400012.exe.config
+D:\Folder D\kuliah\Semester 4\KPL\tp_modul3_103082400012\tp_modul3_103082400012\bin\Debug\tp_modul3_103082400012.exe
+D:\Folder D\kuliah\Semester 4\KPL\tp_modul3_103082400012\tp_modul3_103082400012\bin\Debug\tp_modul3_103082400012.pdb
+D:\Folder D\kuliah\Semester 4\KPL\tp_modul3_103082400012\tp_modul3_103082400012\obj\Debug\tp_modul3_103082400012.csproj.AssemblyReference.cache
+D:\Folder D\kuliah\Semester 4\KPL\tp_modul3_103082400012\tp_modul3_103082400012\obj\Debug\tp_modul3_103082400012.Form1.resources
+D:\Folder D\kuliah\Semester 4\KPL\tp_modul3_103082400012\tp_modul3_103082400012\obj\Debug\tp_modul3_103082400012.Properties.Resources.resources
+D:\Folder D\kuliah\Semester 4\KPL\tp_modul3_103082400012\tp_modul3_103082400012\obj\Debug\tp_modul3_103082400012.csproj.GenerateResource.cache
+D:\Folder D\kuliah\Semester 4\KPL\tp_modul3_103082400012\tp_modul3_103082400012\obj\Debug\tp_modul3_103082400012.csproj.CoreCompileInputs.cache
+D:\Folder D\kuliah\Semester 4\KPL\tp_modul3_103082400012\tp_modul3_103082400012\obj\Debug\tp_modul3_103082400012.exe
+D:\Folder D\kuliah\Semester 4\KPL\tp_modul3_103082400012\tp_modul3_103082400012\obj\Debug\tp_modul3_103082400012.pdb
